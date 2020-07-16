@@ -9571,7 +9571,7 @@ h3 {
   }
 }
 body {
-  font-family: "Overpass", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   background: #fff;
   font-size: 16px;
   line-height: 1.8;
@@ -9856,7 +9856,7 @@ h1, h2, h3, h4, h5,
 .slider-text p {
   font-size: 20px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
   color: #fff;
 }
 .slider-text p a {
@@ -11806,6 +11806,9 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+.banner-text {
+  font-weight: 400;
+}
 .banner-text .heading {
   font-size: 40px;
   font-weight: 700;
@@ -11833,12 +11836,13 @@ textarea.form-control {
 
 .navbar-brand-name {
   font-size: 24px;
-  margin: 25px 0 -18px -25px;
-  line-height: 0.8;
+  margin: 10px 0 -18px -25px;
+  line-height: 0.9;
+  font-weight: 400;
 }
 .navbar-brand-name span:not(:first-of-type) {
   font-size: 16px;
-  color: #4a5562;
+  color: grey;
 }
 .navbar-brand-name span:first-of-type {
   color: #7ac242;
