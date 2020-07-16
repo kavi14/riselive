@@ -1,10 +1,12 @@
 @import 'bootstrap/bootstrap';
 @import 'bootstrap/variables';
 
-$font-primary: 'Overpass',Arial, sans-serif;
-$font-secondary: 'Dosis',Arial, sans-serif;
+// $font-primary: 'Overpass',Arial, sans-serif;
+// $font-secondary: 'Dosis',Arial, sans-serif;
 // $font-primary: "Open Sans", Arial, sans-serif;
 // $font-secondary: "Open Sans", Arial, sans-serif;
+$font-primary: "Lato", Arial, sans-serif;
+$font-secondary: "Dosis", Arial, sans-serif;
 
 $white: #fff;
 $black: #000;
@@ -328,7 +330,7 @@ h1, h2, h3, h4, h5,
     p {
         font-size: 20px;
         line-height: 1.5;
-        font-weight: 300;
+        font-weight: 400;
         color: #fff;
         a{
             color: $white;
@@ -2377,6 +2379,7 @@ textarea.form-control {
 }
 
 .banner-text{
+    font-weight: 400;
     .heading{
         font-size: 40px;
         font-weight: 700;
@@ -2406,6 +2409,7 @@ textarea.form-control {
     font-size: 24px;
     margin: 10px 0 -18px -25px;
     line-height: 0.9;
+    font-weight: 400;
     span:not(:first-of-type){
         font-size: 16px;
         color: grey;
