@@ -9573,10 +9573,10 @@ h3 {
 body {
   font-family: "Lato", Arial, sans-serif;
   background: #fff;
-  font-size: 16px;
+  font-size: 17px;
   line-height: 1.8;
   font-weight: 300;
-  color: gray;
+  color: black;
 }
 body.menu-show {
   overflow: hidden;

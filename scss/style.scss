@@ -36,10 +36,10 @@ $quarternary: #7cbd1e;
 body {
     font-family: $font-primary;
     background: $white;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.8;
     font-weight: 300;
-    color: lighten($black,50%);
+    color: lighten($black,0%);
     &.menu-show {
         overflow: hidden;
         position: fixed;
