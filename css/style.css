@@ -11839,10 +11839,10 @@ textarea.form-control {
   margin: 10px 0 -18px -25px;
   line-height: 0.9;
   font-weight: 400;
+  color: grey;
 }
 .navbar-brand-name span:not(:first-of-type) {
   font-size: 16px;
-  color: grey;
 }
 .navbar-brand-name span:first-of-type {
   color: #7ac242;

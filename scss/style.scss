@@ -2410,9 +2410,9 @@ textarea.form-control {
     margin: 10px 0 -18px -25px;
     line-height: 0.9;
     font-weight: 400;
+    color: grey;
     span:not(:first-of-type){
         font-size: 16px;
-        color: grey;
     }
     span:first-of-type{
         color: $primary;
